@@ -14,6 +14,12 @@ Given a ticket payload, the graph:
 
 The state includes: messages, ticket_text, order_id, issue_type, evidence, recommendation.
 
+
+The control flow is shown below:
+
+<img width="947" height="596" alt="Screenshot 2025-12-15 at 9 57 18 PM" src="https://github.com/user-attachments/assets/461edd8a-2d2b-40db-9b84-bb7e2d3b770c" />
+
+
 ## Repo Structure
 
 app contains the FastAPI app, LangGraph, state schema, and tool definitions  
