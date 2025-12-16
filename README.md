@@ -153,7 +153,7 @@ Graph nodes are instrumented with `Langfuse.observe` for basic tracing.
 Set the standard Langfuse environment variables before running the API to enable traces in your Langfuse project.
 
 
-
+### Loom video link: https://www.loom.com/share/3a72c55cf7684d8b8628afad9ff520d8
 
 
 ## How I used Cursor or Claude Code:
